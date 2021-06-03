@@ -1029,7 +1029,7 @@ button {
 }
 
 .subscribe img {
-  width: 100%;
+  width: 80vw;
   background-color: #FDB13D;
   border-radius: 50px;
   overflow: hidden;
