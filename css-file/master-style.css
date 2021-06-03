@@ -262,7 +262,7 @@ label #cancel{
 
 .landing .intro-text {
   margin: 320px 0 0 325px;
-  transform: translate(-50%, -50%);
+  transform: translate(-130%, -45%);
   width: 320px;
   max-width: 100%;
 }
@@ -298,14 +298,14 @@ hr {
 div .read-more a {
   display: inline;
   position: absolute;
-  top: 77%;
-  left: 6%;
+  top: 80%;
+  left: 10%;
   background-color: #fff;
   font-size: 18px;
   text-decoration: none;
   color: var(--fou-color);
   border: 10px solid #fff;
-  border-radius: 15px;
+  border-radius: 10px;
   font-weight: bold;
   margin: 0 0 0 75px;
   text-indent: 5px;
@@ -435,8 +435,8 @@ div .read-more a {
 }
 
 .img-ad {
-  width: 1270px;
-  transform: translate(9%, 30%);
+  width: 90vw;
+  transform: translate(5%, 30%);
   position: absolute;
   border-radius: 40px;
   border: 0px solid #2961F6;
